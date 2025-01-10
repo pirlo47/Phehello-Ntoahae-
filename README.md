@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pirlo47
 - 👀 I’m interested in the programming world 
-- 🌱 I’m currently learning Python, JavaScript, HTML, Css and React 
+- 🌱 I’m currently learning Python, Django, HTML, javascript 
 - 💞️ I’m currently aiming to build my personal website
 - 📫 How to reach me @ntoahaep108@gmail.com
 - 😄 Pronouns: Him/His/He
